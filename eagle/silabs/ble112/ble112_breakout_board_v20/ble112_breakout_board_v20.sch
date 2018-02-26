@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="6.3">
+<eagle version="7.7.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="yes"/>
@@ -113,8 +113,6 @@
 <layer number="254" name="cooling" color="7" fill="1" visible="no" active="yes"/>
 </layers>
 <schematic xreflabel="%F%N/%S.%C%R" xrefpart="/%S.%C%R">
-<description>&lt;p&gt;&lt;b&gt;BLE112 Breakout Board v2.0&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Full breakout board for all BLE112 functions, with optional LEDs, programming header, USB access, etc.&lt;/p&gt;</description>
 <libraries>
 <library name="frames">
 <packages>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="6.5.0">
+<eagle version="7.7.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="yes"/>
@@ -55,9 +55,6 @@
 <layer number="98" name="Guide" color="6" fill="1" visible="yes" active="yes"/>
 </layers>
 <schematic xreflabel="%F%N/%S.%C%R" xrefpart="/%S.%C%R">
-<description>&lt;p&gt;&lt;strong&gt;BLE112 Full Breakout Board v1.0&lt;/strong&gt;&lt;br /&gt;
-Jeff Rowberg - &lt;a href="http://jetney.com"&gt;jetney.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;P/N: BOB-BLE112*&lt;/em&gt;&lt;/p&gt;</description>
 <libraries>
 <library name="frames">
 <packages>
